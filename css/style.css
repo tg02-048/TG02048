@@ -123,6 +123,12 @@ footer {
   }
 }
 
+@media (max-width: 1080px) {
+  .container:first-of-type {
+      margin-top: 100px;
+  }
+}
+
 @media (max-width: 768px) {
   .container:first-of-type {
     margin-top: 1220px;
