@@ -45,6 +45,9 @@ const sections = {
       { label: 'Canção da Cavalaria', audio: 'Canção da Cavalaria.mp3' },
       { label: 'Canção da Artilharia', audio: 'Canção da Artilharia.mp3' },
       { label: 'Hino Nacional', audio: 'Hino Nacional.mp3' },
+      { label: 'Hino Nacional - Inst', audio: 'Hino Nacional Brasileiro (Instrumental).mp3' },
+      { label: 'Hino da Bandeira - Inst', audio: 'Hino a Bandeira Nacional (Instrumental).mp3' },
+      { label: 'Fibra de Herói - Inst', audio: 'Fibra de Herói (Instrumental).mp3' },
       { label: 'Parar' },
   ]
 };
