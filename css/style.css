@@ -147,7 +147,7 @@ footer {
        (max-height: 1024px) and (orientation:landscape), 
        (max-device-height: 1024px) and (orientation:landscape) {
   .container:first-of-type {
-    margin-top: 50vh;
+    margin-top: 0vh;
   }
 }
 
